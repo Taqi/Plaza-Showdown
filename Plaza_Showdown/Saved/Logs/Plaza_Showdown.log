@@ -1648,3 +1648,1049 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.30-03.23.15:815][ 43]PIE: Warning: TwinStickProjectile_C_13.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
 [2020.08.30-03.23.17:831][ 49]PIE: Warning: TwinStickProjectile_C_14.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
 [2020.08.30-03.23.19:863][ 55]PIE: Warning: TwinStickProjectile_C_15.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.21:889][ 61]PIE: Warning: TwinStickProjectile_C_16.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.23:917][ 67]PIE: Warning: TwinStickProjectile_C_17.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.25:947][ 73]PIE: Warning: TwinStickProjectile_C_18.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.27:979][ 79]PIE: Warning: TwinStickProjectile_C_19.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.30:003][ 85]PIE: Warning: TwinStickProjectile_C_20.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.32:028][ 91]PIE: Warning: TwinStickProjectile_C_21.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.34:056][ 97]PIE: Warning: TwinStickProjectile_C_22.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.36:088][103]PIE: Warning: TwinStickProjectile_C_23.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.38:106][109]PIE: Warning: TwinStickProjectile_C_24.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.40:119][115]PIE: Warning: TwinStickProjectile_C_25.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.42:146][121]PIE: Warning: TwinStickProjectile_C_26.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.44:164][127]PIE: Warning: TwinStickProjectile_C_27.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.46:193][133]PIE: Warning: TwinStickProjectile_C_28.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.48:210][139]PIE: Warning: TwinStickProjectile_C_29.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.50:226][145]PIE: Warning: TwinStickProjectile_C_30.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.52:235][151]PIE: Warning: TwinStickProjectile_C_31.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.54:253][157]PIE: Warning: TwinStickProjectile_C_32.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.56:278][163]PIE: Warning: TwinStickProjectile_C_33.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.23.58:297][169]PIE: Warning: TwinStickProjectile_C_34.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.00:316][175]PIE: Warning: TwinStickProjectile_C_35.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.02:345][181]PIE: Warning: TwinStickProjectile_C_36.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.04:365][187]PIE: Warning: TwinStickProjectile_C_37.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.06:386][193]PIE: Warning: TwinStickProjectile_C_38.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.08:416][199]PIE: Warning: TwinStickProjectile_C_39.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.10:442][205]PIE: Warning: TwinStickProjectile_C_40.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.12:471][211]PIE: Warning: TwinStickProjectile_C_41.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.14:495][217]PIE: Warning: TwinStickProjectile_C_42.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.16:508][223]PIE: Warning: TwinStickProjectile_C_43.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.18:532][229]PIE: Warning: TwinStickProjectile_C_44.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.20:558][235]PIE: Warning: TwinStickProjectile_C_45.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.22:585][241]PIE: Warning: TwinStickProjectile_C_46.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.24:604][247]PIE: Warning: TwinStickProjectile_C_47.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.26:624][253]PIE: Warning: TwinStickProjectile_C_48.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.28:651][259]PIE: Warning: TwinStickProjectile_C_49.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.30:664][265]PIE: Warning: TwinStickProjectile_C_50.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.32:695][271]PIE: Warning: TwinStickProjectile_C_51.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.34:717][277]PIE: Warning: TwinStickProjectile_C_52.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.36:737][283]PIE: Warning: TwinStickProjectile_C_53.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.38:754][289]PIE: Warning: TwinStickProjectile_C_54.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.40:781][295]PIE: Warning: TwinStickProjectile_C_55.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.42:806][301]PIE: Warning: TwinStickProjectile_C_56.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.44:825][307]PIE: Warning: TwinStickProjectile_C_57.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.46:852][313]PIE: Warning: TwinStickProjectile_C_58.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.48:883][319]PIE: Warning: TwinStickProjectile_C_59.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.50:914][325]PIE: Warning: TwinStickProjectile_C_60.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.52:930][331]PIE: Warning: TwinStickProjectile_C_61.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.54:950][337]PIE: Warning: TwinStickProjectile_C_62.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.56:971][343]PIE: Warning: TwinStickProjectile_C_63.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.24.58:988][349]PIE: Warning: TwinStickProjectile_C_64.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.01:006][355]PIE: Warning: TwinStickProjectile_C_65.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.03:023][361]PIE: Warning: TwinStickProjectile_C_66.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.05:046][367]PIE: Warning: TwinStickProjectile_C_67.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.07:058][373]PIE: Warning: TwinStickProjectile_C_68.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.09:076][379]PIE: Warning: TwinStickProjectile_C_69.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.11:091][385]PIE: Warning: TwinStickProjectile_C_70.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.13:106][391]PIE: Warning: TwinStickProjectile_C_71.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.15:122][397]PIE: Warning: TwinStickProjectile_C_72.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.17:143][403]PIE: Warning: TwinStickProjectile_C_73.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.19:169][409]PIE: Warning: TwinStickProjectile_C_74.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.21:199][415]PIE: Warning: TwinStickProjectile_C_75.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.23:223][421]PIE: Warning: TwinStickProjectile_C_76.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.25:257][427]PIE: Warning: TwinStickProjectile_C_77.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.27:281][433]PIE: Warning: TwinStickProjectile_C_78.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.29:300][439]PIE: Warning: TwinStickProjectile_C_79.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.31:326][445]PIE: Warning: TwinStickProjectile_C_80.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.33:355][451]PIE: Warning: TwinStickProjectile_C_81.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.35:389][457]PIE: Warning: TwinStickProjectile_C_82.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.37:418][463]PIE: Warning: TwinStickProjectile_C_83.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.39:443][469]PIE: Warning: TwinStickProjectile_C_84.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.41:467][475]PIE: Warning: TwinStickProjectile_C_85.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.43:500][481]PIE: Warning: TwinStickProjectile_C_86.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.45:529][487]PIE: Warning: TwinStickProjectile_C_87.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.47:556][493]PIE: Warning: TwinStickProjectile_C_88.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.49:586][499]PIE: Warning: TwinStickProjectile_C_89.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.51:621][505]PIE: Warning: TwinStickProjectile_C_90.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.53:642][511]PIE: Warning: TwinStickProjectile_C_91.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.55:672][517]PIE: Warning: TwinStickProjectile_C_92.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.57:697][523]PIE: Warning: TwinStickProjectile_C_93.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.25.59:722][529]PIE: Warning: TwinStickProjectile_C_94.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.01:728][535]PIE: Warning: TwinStickProjectile_C_95.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.03:751][541]PIE: Warning: TwinStickProjectile_C_96.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.05:767][547]PIE: Warning: TwinStickProjectile_C_97.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.07:787][553]PIE: Warning: TwinStickProjectile_C_98.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.09:791][559]PIE: Warning: TwinStickProjectile_C_99.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.11:817][565]PIE: Warning: TwinStickProjectile_C_100.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.13:836][571]PIE: Warning: TwinStickProjectile_C_101.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.15:886][577]PIE: Warning: TwinStickProjectile_C_102.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.17:918][583]PIE: Warning: TwinStickProjectile_C_103.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.19:953][589]PIE: Warning: TwinStickProjectile_C_104.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.21:990][595]PIE: Warning: TwinStickProjectile_C_105.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.24:010][601]PIE: Warning: TwinStickProjectile_C_106.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.26:042][607]PIE: Warning: TwinStickProjectile_C_107.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.28:058][613]PIE: Warning: TwinStickProjectile_C_108.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.30:084][619]PIE: Warning: TwinStickProjectile_C_109.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.32:114][625]PIE: Warning: TwinStickProjectile_C_110.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.34:145][631]PIE: Warning: TwinStickProjectile_C_111.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.36:174][637]PIE: Warning: TwinStickProjectile_C_112.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.38:207][643]PIE: Warning: TwinStickProjectile_C_113.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.40:237][649]PIE: Warning: TwinStickProjectile_C_114.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.42:272][655]PIE: Warning: TwinStickProjectile_C_115.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.44:302][661]PIE: Warning: TwinStickProjectile_C_116.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.46:328][667]PIE: Warning: TwinStickProjectile_C_117.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.48:362][673]PIE: Warning: TwinStickProjectile_C_118.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.50:377][679]PIE: Warning: TwinStickProjectile_C_119.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.52:410][685]PIE: Warning: TwinStickProjectile_C_120.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.54:433][691]PIE: Warning: TwinStickProjectile_C_121.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.56:466][697]PIE: Warning: TwinStickProjectile_C_122.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.26.58:496][703]PIE: Warning: TwinStickProjectile_C_123.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.00:518][709]PIE: Warning: TwinStickProjectile_C_124.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.02:581][715]PIE: Warning: TwinStickProjectile_C_125.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.04:602][721]PIE: Warning: TwinStickProjectile_C_126.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.06:635][727]PIE: Warning: TwinStickProjectile_C_127.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.08:661][733]PIE: Warning: TwinStickProjectile_C_128.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.10:694][739]PIE: Warning: TwinStickProjectile_C_129.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.12:719][745]PIE: Warning: TwinStickProjectile_C_130.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.14:745][751]PIE: Warning: TwinStickProjectile_C_131.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.16:780][757]PIE: Warning: TwinStickProjectile_C_132.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.18:806][763]PIE: Warning: TwinStickProjectile_C_133.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.20:833][769]PIE: Warning: TwinStickProjectile_C_134.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.22:860][775]PIE: Warning: TwinStickProjectile_C_135.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.24:891][781]PIE: Warning: TwinStickProjectile_C_136.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.26:916][787]PIE: Warning: TwinStickProjectile_C_137.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.28:947][793]PIE: Warning: TwinStickProjectile_C_138.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.30:971][799]PIE: Warning: TwinStickProjectile_C_139.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.33:004][805]PIE: Warning: TwinStickProjectile_C_140.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.35:020][811]PIE: Warning: TwinStickProjectile_C_141.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.37:038][817]PIE: Warning: TwinStickProjectile_C_142.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.39:065][823]PIE: Warning: TwinStickProjectile_C_143.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.41:091][829]PIE: Warning: TwinStickProjectile_C_144.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.43:119][835]PIE: Warning: TwinStickProjectile_C_145.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.45:144][841]PIE: Warning: TwinStickProjectile_C_146.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.47:175][847]PIE: Warning: TwinStickProjectile_C_147.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.49:205][853]PIE: Warning: TwinStickProjectile_C_148.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.51:235][859]PIE: Warning: TwinStickProjectile_C_149.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.53:268][865]PIE: Warning: TwinStickProjectile_C_150.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.55:297][871]PIE: Warning: TwinStickProjectile_C_151.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.57:331][877]PIE: Warning: TwinStickProjectile_C_152.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.27.59:360][883]PIE: Warning: TwinStickProjectile_C_153.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.01:387][889]PIE: Warning: TwinStickProjectile_C_154.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.03:421][895]PIE: Warning: TwinStickProjectile_C_155.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.05:447][901]PIE: Warning: TwinStickProjectile_C_156.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.07:479][907]PIE: Warning: TwinStickProjectile_C_157.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.09:504][913]PIE: Warning: TwinStickProjectile_C_158.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.11:523][919]PIE: Warning: TwinStickProjectile_C_159.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.13:555][925]PIE: Warning: TwinStickProjectile_C_160.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.15:586][931]PIE: Warning: TwinStickProjectile_C_161.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.17:621][937]PIE: Warning: TwinStickProjectile_C_162.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.19:649][943]PIE: Warning: TwinStickProjectile_C_163.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.21:678][949]PIE: Warning: TwinStickProjectile_C_164.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.23:711][955]PIE: Warning: TwinStickProjectile_C_165.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.25:743][961]PIE: Warning: TwinStickProjectile_C_166.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.27:763][967]PIE: Warning: TwinStickProjectile_C_167.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.29:797][973]PIE: Warning: TwinStickProjectile_C_168.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.31:823][979]PIE: Warning: TwinStickProjectile_C_169.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.33:849][985]PIE: Warning: TwinStickProjectile_C_170.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.35:868][991]PIE: Warning: TwinStickProjectile_C_171.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.37:893][997]PIE: Warning: TwinStickProjectile_C_172.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.39:925][  3]PIE: Warning: TwinStickProjectile_C_173.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.41:961][  9]PIE: Warning: TwinStickProjectile_C_174.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.43:987][ 15]PIE: Warning: TwinStickProjectile_C_175.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.46:007][ 21]PIE: Warning: TwinStickProjectile_C_176.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.48:026][ 27]PIE: Warning: TwinStickProjectile_C_177.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.50:057][ 33]PIE: Warning: TwinStickProjectile_C_178.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.52:082][ 39]PIE: Warning: TwinStickProjectile_C_179.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.54:116][ 45]PIE: Warning: TwinStickProjectile_C_180.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.56:140][ 51]PIE: Warning: TwinStickProjectile_C_181.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.28.58:171][ 57]PIE: Warning: TwinStickProjectile_C_182.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.00:206][ 63]PIE: Warning: TwinStickProjectile_C_183.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.02:235][ 69]PIE: Warning: TwinStickProjectile_C_184.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.04:264][ 75]PIE: Warning: TwinStickProjectile_C_185.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.06:300][ 81]PIE: Warning: TwinStickProjectile_C_186.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.08:330][ 87]PIE: Warning: TwinStickProjectile_C_187.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.10:358][ 93]PIE: Warning: TwinStickProjectile_C_188.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.12:398][ 99]PIE: Warning: TwinStickProjectile_C_189.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.14:398][105]PIE: Warning: TwinStickProjectile_C_190.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.16:425][111]PIE: Warning: TwinStickProjectile_C_191.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.18:457][117]PIE: Warning: TwinStickProjectile_C_192.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.20:515][123]PIE: Warning: TwinStickProjectile_C_193.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.22:534][129]PIE: Warning: TwinStickProjectile_C_194.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.24:550][135]PIE: Warning: TwinStickProjectile_C_195.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.26:573][141]PIE: Warning: TwinStickProjectile_C_196.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.28:595][147]PIE: Warning: TwinStickProjectile_C_197.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.30:618][153]PIE: Warning: TwinStickProjectile_C_198.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.32:646][159]PIE: Warning: TwinStickProjectile_C_199.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.34:663][165]PIE: Warning: TwinStickProjectile_C_200.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.36:696][171]PIE: Warning: TwinStickProjectile_C_201.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.38:718][177]PIE: Warning: TwinStickProjectile_C_202.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.40:768][183]PIE: Warning: TwinStickProjectile_C_203.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.42:794][189]PIE: Warning: TwinStickProjectile_C_204.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.44:828][195]PIE: Warning: TwinStickProjectile_C_205.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.46:862][201]PIE: Warning: TwinStickProjectile_C_206.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.48:891][207]PIE: Warning: TwinStickProjectile_C_207.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.50:913][213]PIE: Warning: TwinStickProjectile_C_208.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.52:942][219]PIE: Warning: TwinStickProjectile_C_209.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.54:971][225]PIE: Warning: TwinStickProjectile_C_210.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.57:004][231]PIE: Warning: TwinStickProjectile_C_211.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.29.59:033][237]PIE: Warning: TwinStickProjectile_C_212.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.01:063][243]PIE: Warning: TwinStickProjectile_C_213.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.03:097][249]PIE: Warning: TwinStickProjectile_C_214.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.05:124][255]PIE: Warning: TwinStickProjectile_C_215.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.07:157][261]PIE: Warning: TwinStickProjectile_C_216.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.09:175][267]PIE: Warning: TwinStickProjectile_C_217.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.11:200][273]PIE: Warning: TwinStickProjectile_C_218.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.13:235][279]PIE: Warning: TwinStickProjectile_C_219.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.15:258][285]PIE: Warning: TwinStickProjectile_C_220.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.17:288][291]PIE: Warning: TwinStickProjectile_C_221.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.19:313][297]PIE: Warning: TwinStickProjectile_C_222.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.21:339][303]PIE: Warning: TwinStickProjectile_C_223.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.23:365][309]PIE: Warning: TwinStickProjectile_C_224.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.25:388][315]PIE: Warning: TwinStickProjectile_C_225.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.27:418][321]PIE: Warning: TwinStickProjectile_C_226.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.29:449][327]PIE: Warning: TwinStickProjectile_C_227.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.31:470][333]PIE: Warning: TwinStickProjectile_C_228.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.33:492][339]PIE: Warning: TwinStickProjectile_C_229.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.35:525][345]PIE: Warning: TwinStickProjectile_C_230.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.37:555][351]PIE: Warning: TwinStickProjectile_C_231.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.39:584][357]PIE: Warning: TwinStickProjectile_C_232.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.41:605][363]PIE: Warning: TwinStickProjectile_C_233.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.43:637][369]PIE: Warning: TwinStickProjectile_C_234.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.45:669][375]PIE: Warning: TwinStickProjectile_C_235.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.47:705][381]PIE: Warning: TwinStickProjectile_C_236.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.49:739][387]PIE: Warning: TwinStickProjectile_C_237.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.51:771][393]PIE: Warning: TwinStickProjectile_C_238.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.53:805][399]PIE: Warning: TwinStickProjectile_C_239.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.55:829][405]PIE: Warning: TwinStickProjectile_C_240.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.57:855][411]PIE: Warning: TwinStickProjectile_C_241.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.30.59:884][417]PIE: Warning: TwinStickProjectile_C_242.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.01:917][423]PIE: Warning: TwinStickProjectile_C_243.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.03:949][429]PIE: Warning: TwinStickProjectile_C_244.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.05:981][435]PIE: Warning: TwinStickProjectile_C_245.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.08:014][441]PIE: Warning: TwinStickProjectile_C_246.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.10:042][447]PIE: Warning: TwinStickProjectile_C_247.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.12:075][453]PIE: Warning: TwinStickProjectile_C_248.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.14:107][459]PIE: Warning: TwinStickProjectile_C_249.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.16:127][465]PIE: Warning: TwinStickProjectile_C_250.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.18:148][471]PIE: Warning: TwinStickProjectile_C_251.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.20:173][477]PIE: Warning: TwinStickProjectile_C_252.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.22:194][483]PIE: Warning: TwinStickProjectile_C_253.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.24:217][489]PIE: Warning: TwinStickProjectile_C_254.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.26:247][495]PIE: Warning: TwinStickProjectile_C_255.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.28:276][501]PIE: Warning: TwinStickProjectile_C_256.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.30:311][507]PIE: Warning: TwinStickProjectile_C_257.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.32:336][513]PIE: Warning: TwinStickProjectile_C_258.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.34:356][519]PIE: Warning: TwinStickProjectile_C_259.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.36:380][525]PIE: Warning: TwinStickProjectile_C_260.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.38:407][531]PIE: Warning: TwinStickProjectile_C_261.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.40:441][537]PIE: Warning: TwinStickProjectile_C_262.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.42:467][543]PIE: Warning: TwinStickProjectile_C_263.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.44:494][549]PIE: Warning: TwinStickProjectile_C_264.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.46:526][555]PIE: Warning: TwinStickProjectile_C_265.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.48:555][561]PIE: Warning: TwinStickProjectile_C_266.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.50:587][567]PIE: Warning: TwinStickProjectile_C_267.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.52:617][573]PIE: Warning: TwinStickProjectile_C_268.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.54:649][579]PIE: Warning: TwinStickProjectile_C_269.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.56:677][585]PIE: Warning: TwinStickProjectile_C_270.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.31.58:708][591]PIE: Warning: TwinStickProjectile_C_271.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.00:742][597]PIE: Warning: TwinStickProjectile_C_272.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.02:776][603]PIE: Warning: TwinStickProjectile_C_273.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.04:800][609]PIE: Warning: TwinStickProjectile_C_274.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.06:825][615]PIE: Warning: TwinStickProjectile_C_275.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.08:854][621]PIE: Warning: TwinStickProjectile_C_276.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.10:876][627]PIE: Warning: TwinStickProjectile_C_277.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.12:905][633]PIE: Warning: TwinStickProjectile_C_278.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.14:930][639]PIE: Warning: TwinStickProjectile_C_279.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.16:954][645]PIE: Warning: TwinStickProjectile_C_280.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.18:986][651]PIE: Warning: TwinStickProjectile_C_281.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.21:009][657]PIE: Warning: TwinStickProjectile_C_282.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.23:039][663]PIE: Warning: TwinStickProjectile_C_283.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.25:070][669]PIE: Warning: TwinStickProjectile_C_284.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.27:094][675]PIE: Warning: TwinStickProjectile_C_285.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.29:113][681]PIE: Warning: TwinStickProjectile_C_286.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.31:144][687]PIE: Warning: TwinStickProjectile_C_287.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.33:177][693]PIE: Warning: TwinStickProjectile_C_288.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.35:200][699]PIE: Warning: TwinStickProjectile_C_289.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.37:218][705]PIE: Warning: TwinStickProjectile_C_290.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.39:248][711]PIE: Warning: TwinStickProjectile_C_291.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.41:274][717]PIE: Warning: TwinStickProjectile_C_292.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.43:304][723]PIE: Warning: TwinStickProjectile_C_293.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.45:336][729]PIE: Warning: TwinStickProjectile_C_294.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.47:352][735]PIE: Warning: TwinStickProjectile_C_295.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.49:373][741]PIE: Warning: TwinStickProjectile_C_296.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.51:407][747]PIE: Warning: TwinStickProjectile_C_297.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.53:430][753]PIE: Warning: TwinStickProjectile_C_298.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.55:455][759]PIE: Warning: TwinStickProjectile_C_299.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.57:480][765]PIE: Warning: TwinStickProjectile_C_300.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.32.59:508][771]PIE: Warning: TwinStickProjectile_C_301.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.01:540][777]PIE: Warning: TwinStickProjectile_C_302.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.03:562][783]PIE: Warning: TwinStickProjectile_C_303.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.05:573][789]PIE: Warning: TwinStickProjectile_C_304.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.07:593][795]PIE: Warning: TwinStickProjectile_C_305.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.09:636][801]PIE: Warning: TwinStickProjectile_C_306.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.11:656][807]PIE: Warning: TwinStickProjectile_C_307.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.13:684][813]PIE: Warning: TwinStickProjectile_C_308.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.15:704][819]PIE: Warning: TwinStickProjectile_C_309.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.17:722][825]PIE: Warning: TwinStickProjectile_C_310.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.19:745][831]PIE: Warning: TwinStickProjectile_C_311.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.21:761][837]PIE: Warning: TwinStickProjectile_C_312.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.23:783][843]PIE: Warning: TwinStickProjectile_C_313.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.25:810][849]PIE: Warning: TwinStickProjectile_C_314.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.27:827][855]PIE: Warning: TwinStickProjectile_C_315.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.29:853][861]PIE: Warning: TwinStickProjectile_C_316.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.31:879][867]PIE: Warning: TwinStickProjectile_C_317.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.33:904][873]PIE: Warning: TwinStickProjectile_C_318.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.35:935][879]PIE: Warning: TwinStickProjectile_C_319.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.37:945][885]PIE: Warning: TwinStickProjectile_C_320.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.39:968][891]PIE: Warning: TwinStickProjectile_C_321.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.41:998][897]PIE: Warning: TwinStickProjectile_C_322.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.44:023][903]PIE: Warning: TwinStickProjectile_C_323.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.46:048][909]PIE: Warning: TwinStickProjectile_C_324.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.48:077][915]PIE: Warning: TwinStickProjectile_C_325.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.50:092][921]PIE: Warning: TwinStickProjectile_C_326.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.52:119][927]PIE: Warning: TwinStickProjectile_C_327.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.54:142][933]PIE: Warning: TwinStickProjectile_C_328.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.56:170][939]PIE: Warning: TwinStickProjectile_C_329.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.33.58:190][945]PIE: Warning: TwinStickProjectile_C_330.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.00:217][951]PIE: Warning: TwinStickProjectile_C_331.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.02:245][957]PIE: Warning: TwinStickProjectile_C_332.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.04:268][963]PIE: Warning: TwinStickProjectile_C_333.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.06:300][969]PIE: Warning: TwinStickProjectile_C_334.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.08:325][975]PIE: Warning: TwinStickProjectile_C_335.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.10:352][981]PIE: Warning: TwinStickProjectile_C_336.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.12:384][987]PIE: Warning: TwinStickProjectile_C_337.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.14:405][993]PIE: Warning: TwinStickProjectile_C_338.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.16:427][999]PIE: Warning: TwinStickProjectile_C_339.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.18:469][  5]PIE: Warning: TwinStickProjectile_C_340.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.20:478][ 11]PIE: Warning: TwinStickProjectile_C_341.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.22:503][ 17]PIE: Warning: TwinStickProjectile_C_342.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.24:529][ 23]PIE: Warning: TwinStickProjectile_C_343.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.26:551][ 29]PIE: Warning: TwinStickProjectile_C_344.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.28:579][ 35]PIE: Warning: TwinStickProjectile_C_345.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.30:612][ 41]PIE: Warning: TwinStickProjectile_C_346.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.32:636][ 47]PIE: Warning: TwinStickProjectile_C_347.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.34:666][ 53]PIE: Warning: TwinStickProjectile_C_348.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.36:685][ 59]PIE: Warning: TwinStickProjectile_C_349.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.38:713][ 65]PIE: Warning: TwinStickProjectile_C_350.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.40:737][ 71]PIE: Warning: TwinStickProjectile_C_351.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.42:759][ 77]PIE: Warning: TwinStickProjectile_C_352.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.44:784][ 83]PIE: Warning: TwinStickProjectile_C_353.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.46:809][ 89]PIE: Warning: TwinStickProjectile_C_354.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.48:840][ 95]PIE: Warning: TwinStickProjectile_C_355.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.50:868][101]PIE: Warning: TwinStickProjectile_C_356.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.52:891][107]PIE: Warning: TwinStickProjectile_C_357.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.54:919][113]PIE: Warning: TwinStickProjectile_C_358.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.56:949][119]PIE: Warning: TwinStickProjectile_C_359.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.34.58:972][125]PIE: Warning: TwinStickProjectile_C_360.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.00:997][131]PIE: Warning: TwinStickProjectile_C_361.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.03:024][137]PIE: Warning: TwinStickProjectile_C_362.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.05:045][143]PIE: Warning: TwinStickProjectile_C_363.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.07:075][149]PIE: Warning: TwinStickProjectile_C_364.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.09:102][155]PIE: Warning: TwinStickProjectile_C_365.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.11:125][161]PIE: Warning: TwinStickProjectile_C_366.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.13:150][167]PIE: Warning: TwinStickProjectile_C_367.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.15:180][173]PIE: Warning: TwinStickProjectile_C_368.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.17:204][179]PIE: Warning: TwinStickProjectile_C_369.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.19:228][185]PIE: Warning: TwinStickProjectile_C_370.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.21:251][191]PIE: Warning: TwinStickProjectile_C_371.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.23:274][197]PIE: Warning: TwinStickProjectile_C_372.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.25:299][203]PIE: Warning: TwinStickProjectile_C_373.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.27:327][209]PIE: Warning: TwinStickProjectile_C_374.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.29:351][215]PIE: Warning: TwinStickProjectile_C_375.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.31:378][221]PIE: Warning: TwinStickProjectile_C_376.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.33:404][227]PIE: Warning: TwinStickProjectile_C_377.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.35:436][233]PIE: Warning: TwinStickProjectile_C_378.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.37:464][239]PIE: Warning: TwinStickProjectile_C_379.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.39:494][245]PIE: Warning: TwinStickProjectile_C_380.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.41:521][251]PIE: Warning: TwinStickProjectile_C_381.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.43:549][257]PIE: Warning: TwinStickProjectile_C_382.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.45:580][263]PIE: Warning: TwinStickProjectile_C_383.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.47:605][269]PIE: Warning: TwinStickProjectile_C_384.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.49:636][275]PIE: Warning: TwinStickProjectile_C_385.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.51:662][281]PIE: Warning: TwinStickProjectile_C_386.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.53:693][287]PIE: Warning: TwinStickProjectile_C_387.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.55:706][293]PIE: Warning: TwinStickProjectile_C_388.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.57:732][299]PIE: Warning: TwinStickProjectile_C_389.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.35.59:753][305]PIE: Warning: TwinStickProjectile_C_390.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.01:779][311]PIE: Warning: TwinStickProjectile_C_391.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.03:800][317]PIE: Warning: TwinStickProjectile_C_392.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.05:823][323]PIE: Warning: TwinStickProjectile_C_393.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.07:852][329]PIE: Warning: TwinStickProjectile_C_394.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.09:875][335]PIE: Warning: TwinStickProjectile_C_395.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.11:905][341]PIE: Warning: TwinStickProjectile_C_396.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.13:925][347]PIE: Warning: TwinStickProjectile_C_397.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.15:944][353]PIE: Warning: TwinStickProjectile_C_398.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.17:967][359]PIE: Warning: TwinStickProjectile_C_399.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.19:987][365]PIE: Warning: TwinStickProjectile_C_400.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.21:999][371]PIE: Warning: TwinStickProjectile_C_401.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.24:028][377]PIE: Warning: TwinStickProjectile_C_402.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.26:054][383]PIE: Warning: TwinStickProjectile_C_403.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.28:073][389]PIE: Warning: TwinStickProjectile_C_404.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.30:097][395]PIE: Warning: TwinStickProjectile_C_405.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.32:124][401]PIE: Warning: TwinStickProjectile_C_406.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.34:149][407]PIE: Warning: TwinStickProjectile_C_407.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.36:179][413]PIE: Warning: TwinStickProjectile_C_408.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.38:213][419]PIE: Warning: TwinStickProjectile_C_409.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.40:233][425]PIE: Warning: TwinStickProjectile_C_410.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.42:263][431]PIE: Warning: TwinStickProjectile_C_411.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.44:284][437]PIE: Warning: TwinStickProjectile_C_412.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.46:311][443]PIE: Warning: TwinStickProjectile_C_413.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.48:337][449]PIE: Warning: TwinStickProjectile_C_414.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.50:351][455]PIE: Warning: TwinStickProjectile_C_415.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.52:366][461]PIE: Warning: TwinStickProjectile_C_416.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.54:389][467]PIE: Warning: TwinStickProjectile_C_417.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.56:418][473]PIE: Warning: TwinStickProjectile_C_418.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.36.58:428][479]PIE: Warning: TwinStickProjectile_C_419.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.00:441][485]PIE: Warning: TwinStickProjectile_C_420.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.02:470][491]PIE: Warning: TwinStickProjectile_C_421.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.04:489][497]PIE: Warning: TwinStickProjectile_C_422.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.06:515][503]PIE: Warning: TwinStickProjectile_C_423.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.08:544][509]PIE: Warning: TwinStickProjectile_C_424.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.10:564][515]PIE: Warning: TwinStickProjectile_C_425.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.12:599][521]PIE: Warning: TwinStickProjectile_C_426.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.14:621][527]PIE: Warning: TwinStickProjectile_C_427.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.16:646][533]PIE: Warning: TwinStickProjectile_C_428.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.18:678][539]PIE: Warning: TwinStickProjectile_C_429.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.20:706][545]PIE: Warning: TwinStickProjectile_C_430.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.22:739][551]PIE: Warning: TwinStickProjectile_C_431.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.24:754][557]PIE: Warning: TwinStickProjectile_C_432.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.26:779][563]PIE: Warning: TwinStickProjectile_C_433.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.28:804][569]PIE: Warning: TwinStickProjectile_C_434.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.30:831][575]PIE: Warning: TwinStickProjectile_C_435.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.32:861][581]PIE: Warning: TwinStickProjectile_C_436.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.34:886][587]PIE: Warning: TwinStickProjectile_C_437.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.36:912][593]PIE: Warning: TwinStickProjectile_C_438.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.38:933][599]PIE: Warning: TwinStickProjectile_C_439.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.40:942][605]PIE: Warning: TwinStickProjectile_C_440.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.42:967][611]PIE: Warning: TwinStickProjectile_C_441.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.44:993][617]PIE: Warning: TwinStickProjectile_C_442.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.47:024][623]PIE: Warning: TwinStickProjectile_C_443.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.49:054][629]PIE: Warning: TwinStickProjectile_C_444.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.51:077][635]PIE: Warning: TwinStickProjectile_C_445.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.53:103][641]PIE: Warning: TwinStickProjectile_C_446.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.55:131][647]PIE: Warning: TwinStickProjectile_C_447.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.57:156][653]PIE: Warning: TwinStickProjectile_C_448.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.37.59:187][659]PIE: Warning: TwinStickProjectile_C_449.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.01:219][665]PIE: Warning: TwinStickProjectile_C_450.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.03:246][671]PIE: Warning: TwinStickProjectile_C_451.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.05:269][677]PIE: Warning: TwinStickProjectile_C_452.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.07:302][683]PIE: Warning: TwinStickProjectile_C_453.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.09:324][689]PIE: Warning: TwinStickProjectile_C_454.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.11:355][695]PIE: Warning: TwinStickProjectile_C_455.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.13:384][701]PIE: Warning: TwinStickProjectile_C_456.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.15:410][707]PIE: Warning: TwinStickProjectile_C_457.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.17:426][713]PIE: Warning: TwinStickProjectile_C_458.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.19:447][719]PIE: Warning: TwinStickProjectile_C_459.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.21:478][725]PIE: Warning: TwinStickProjectile_C_460.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.23:535][731]PIE: Warning: TwinStickProjectile_C_461.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.25:547][737]PIE: Warning: TwinStickProjectile_C_462.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.27:582][743]PIE: Warning: TwinStickProjectile_C_463.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.29:607][749]PIE: Warning: TwinStickProjectile_C_464.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.31:636][755]PIE: Warning: TwinStickProjectile_C_465.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.33:657][761]PIE: Warning: TwinStickProjectile_C_466.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.35:657][767]PIE: Warning: TwinStickProjectile_C_467.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.37:691][773]PIE: Warning: TwinStickProjectile_C_468.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.39:726][779]PIE: Warning: TwinStickProjectile_C_469.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.41:748][785]PIE: Warning: TwinStickProjectile_C_470.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.43:755][791]PIE: Warning: TwinStickProjectile_C_471.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.45:783][797]PIE: Warning: TwinStickProjectile_C_472.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.47:805][803]PIE: Warning: TwinStickProjectile_C_473.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.49:817][809]PIE: Warning: TwinStickProjectile_C_474.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.51:837][815]PIE: Warning: TwinStickProjectile_C_475.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.53:861][821]PIE: Warning: TwinStickProjectile_C_476.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.55:898][827]PIE: Warning: TwinStickProjectile_C_477.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.57:915][833]PIE: Warning: TwinStickProjectile_C_478.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.38.59:937][839]PIE: Warning: TwinStickProjectile_C_479.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.01:969][845]PIE: Warning: TwinStickProjectile_C_480.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.04:001][851]PIE: Warning: TwinStickProjectile_C_481.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.06:033][857]PIE: Warning: TwinStickProjectile_C_482.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.08:053][863]PIE: Warning: TwinStickProjectile_C_483.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.10:082][869]PIE: Warning: TwinStickProjectile_C_484.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.12:110][875]PIE: Warning: TwinStickProjectile_C_485.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.14:141][881]PIE: Warning: TwinStickProjectile_C_486.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.16:163][887]PIE: Warning: TwinStickProjectile_C_487.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.18:189][893]PIE: Warning: TwinStickProjectile_C_488.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.20:224][899]PIE: Warning: TwinStickProjectile_C_489.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.22:242][905]PIE: Warning: TwinStickProjectile_C_490.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.24:268][911]PIE: Warning: TwinStickProjectile_C_491.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.26:293][917]PIE: Warning: TwinStickProjectile_C_492.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.28:323][923]PIE: Warning: TwinStickProjectile_C_493.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.30:355][929]PIE: Warning: TwinStickProjectile_C_494.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.32:378][935]PIE: Warning: TwinStickProjectile_C_495.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.34:398][941]PIE: Warning: TwinStickProjectile_C_496.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.36:423][947]PIE: Warning: TwinStickProjectile_C_497.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.38:448][953]PIE: Warning: TwinStickProjectile_C_498.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.40:475][959]PIE: Warning: TwinStickProjectile_C_499.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.42:498][965]PIE: Warning: TwinStickProjectile_C_500.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.44:529][971]PIE: Warning: TwinStickProjectile_C_501.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.46:555][977]PIE: Warning: TwinStickProjectile_C_502.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.48:579][983]PIE: Warning: TwinStickProjectile_C_503.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.50:607][989]PIE: Warning: TwinStickProjectile_C_504.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.52:630][995]PIE: Warning: TwinStickProjectile_C_505.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.54:656][  1]PIE: Warning: TwinStickProjectile_C_506.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.56:685][  7]PIE: Warning: TwinStickProjectile_C_507.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.39.58:700][ 13]PIE: Warning: TwinStickProjectile_C_508.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.00:720][ 19]PIE: Warning: TwinStickProjectile_C_509.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.02:746][ 25]PIE: Warning: TwinStickProjectile_C_510.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.04:767][ 31]PIE: Warning: TwinStickProjectile_C_511.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.06:789][ 37]PIE: Warning: TwinStickProjectile_C_512.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.08:818][ 43]PIE: Warning: TwinStickProjectile_C_513.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.10:855][ 49]PIE: Warning: TwinStickProjectile_C_514.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.12:882][ 55]PIE: Warning: TwinStickProjectile_C_515.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.14:910][ 61]PIE: Warning: TwinStickProjectile_C_516.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.16:938][ 67]PIE: Warning: TwinStickProjectile_C_517.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.18:961][ 73]PIE: Warning: TwinStickProjectile_C_518.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.20:981][ 79]PIE: Warning: TwinStickProjectile_C_519.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.23:012][ 85]PIE: Warning: TwinStickProjectile_C_520.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.25:043][ 91]PIE: Warning: TwinStickProjectile_C_521.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.27:071][ 97]PIE: Warning: TwinStickProjectile_C_522.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.29:108][103]PIE: Warning: TwinStickProjectile_C_523.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.31:131][109]PIE: Warning: TwinStickProjectile_C_524.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.33:156][115]PIE: Warning: TwinStickProjectile_C_525.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.35:181][121]PIE: Warning: TwinStickProjectile_C_526.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.37:199][127]PIE: Warning: TwinStickProjectile_C_527.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.39:218][133]PIE: Warning: TwinStickProjectile_C_528.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.41:244][139]PIE: Warning: TwinStickProjectile_C_529.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.43:273][145]PIE: Warning: TwinStickProjectile_C_530.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.45:301][151]PIE: Warning: TwinStickProjectile_C_531.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.47:325][157]PIE: Warning: TwinStickProjectile_C_532.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.49:352][163]PIE: Warning: TwinStickProjectile_C_533.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.51:378][169]PIE: Warning: TwinStickProjectile_C_534.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.53:399][175]PIE: Warning: TwinStickProjectile_C_535.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.55:420][181]PIE: Warning: TwinStickProjectile_C_536.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.57:436][187]PIE: Warning: TwinStickProjectile_C_537.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.40.59:469][193]PIE: Warning: TwinStickProjectile_C_538.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.01:500][199]PIE: Warning: TwinStickProjectile_C_539.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.03:526][205]PIE: Warning: TwinStickProjectile_C_540.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.05:558][211]PIE: Warning: TwinStickProjectile_C_541.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.07:583][217]PIE: Warning: TwinStickProjectile_C_542.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.09:618][223]PIE: Warning: TwinStickProjectile_C_543.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.11:649][229]PIE: Warning: TwinStickProjectile_C_544.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.13:677][235]PIE: Warning: TwinStickProjectile_C_545.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.15:699][241]PIE: Warning: TwinStickProjectile_C_546.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.17:712][247]PIE: Warning: TwinStickProjectile_C_547.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.19:744][253]PIE: Warning: TwinStickProjectile_C_548.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.21:759][259]PIE: Warning: TwinStickProjectile_C_549.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.23:787][265]PIE: Warning: TwinStickProjectile_C_550.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.25:810][271]PIE: Warning: TwinStickProjectile_C_551.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.27:838][277]PIE: Warning: TwinStickProjectile_C_552.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.29:842][283]PIE: Warning: TwinStickProjectile_C_553.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.31:873][289]PIE: Warning: TwinStickProjectile_C_554.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.33:898][295]PIE: Warning: TwinStickProjectile_C_555.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.35:920][301]PIE: Warning: TwinStickProjectile_C_556.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.37:931][307]PIE: Warning: TwinStickProjectile_C_557.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.39:951][313]PIE: Warning: TwinStickProjectile_C_558.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.41:976][319]PIE: Warning: TwinStickProjectile_C_559.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.44:000][325]PIE: Warning: TwinStickProjectile_C_560.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.46:026][331]PIE: Warning: TwinStickProjectile_C_561.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.48:056][337]PIE: Warning: TwinStickProjectile_C_562.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.50:084][343]PIE: Warning: TwinStickProjectile_C_563.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.52:111][349]PIE: Warning: TwinStickProjectile_C_564.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.54:135][355]PIE: Warning: TwinStickProjectile_C_565.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.56:156][361]PIE: Warning: TwinStickProjectile_C_566.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.41.58:189][367]PIE: Warning: TwinStickProjectile_C_567.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.00:207][373]PIE: Warning: TwinStickProjectile_C_568.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.02:229][379]PIE: Warning: TwinStickProjectile_C_569.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.04:253][385]PIE: Warning: TwinStickProjectile_C_570.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.06:281][391]PIE: Warning: TwinStickProjectile_C_571.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.08:298][397]PIE: Warning: TwinStickProjectile_C_572.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.10:327][403]PIE: Warning: TwinStickProjectile_C_573.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.12:353][409]PIE: Warning: TwinStickProjectile_C_574.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.14:379][415]PIE: Warning: TwinStickProjectile_C_575.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.16:408][421]PIE: Warning: TwinStickProjectile_C_576.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.18:421][427]PIE: Warning: TwinStickProjectile_C_577.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.20:449][433]PIE: Warning: TwinStickProjectile_C_578.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.22:470][439]PIE: Warning: TwinStickProjectile_C_579.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.24:495][445]PIE: Warning: TwinStickProjectile_C_580.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.26:524][451]PIE: Warning: TwinStickProjectile_C_581.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.28:577][457]PIE: Warning: TwinStickProjectile_C_582.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.30:586][463]PIE: Warning: TwinStickProjectile_C_583.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.32:617][469]PIE: Warning: TwinStickProjectile_C_584.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.34:646][475]PIE: Warning: TwinStickProjectile_C_585.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.36:668][481]PIE: Warning: TwinStickProjectile_C_586.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.38:691][487]PIE: Warning: TwinStickProjectile_C_587.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.40:718][493]PIE: Warning: TwinStickProjectile_C_588.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.42:748][499]PIE: Warning: TwinStickProjectile_C_589.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.44:762][505]PIE: Warning: TwinStickProjectile_C_590.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.46:792][511]PIE: Warning: TwinStickProjectile_C_591.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.48:820][517]PIE: Warning: TwinStickProjectile_C_592.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.50:839][523]PIE: Warning: TwinStickProjectile_C_593.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.52:865][529]PIE: Warning: TwinStickProjectile_C_594.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.54:895][535]PIE: Warning: TwinStickProjectile_C_595.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.56:917][541]PIE: Warning: TwinStickProjectile_C_596.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.42.58:945][547]PIE: Warning: TwinStickProjectile_C_597.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.00:973][553]PIE: Warning: TwinStickProjectile_C_598.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.02:995][559]PIE: Warning: TwinStickProjectile_C_599.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.05:021][565]PIE: Warning: TwinStickProjectile_C_600.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.07:038][571]PIE: Warning: TwinStickProjectile_C_601.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.09:061][577]PIE: Warning: TwinStickProjectile_C_602.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.11:093][583]PIE: Warning: TwinStickProjectile_C_603.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.13:106][589]PIE: Warning: TwinStickProjectile_C_604.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.15:121][595]PIE: Warning: TwinStickProjectile_C_605.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.17:150][601]PIE: Warning: TwinStickProjectile_C_606.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.19:173][607]PIE: Warning: TwinStickProjectile_C_607.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.21:199][613]PIE: Warning: TwinStickProjectile_C_608.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.23:218][619]PIE: Warning: TwinStickProjectile_C_609.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.25:248][625]PIE: Warning: TwinStickProjectile_C_610.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.27:278][631]PIE: Warning: TwinStickProjectile_C_611.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.29:309][637]PIE: Warning: TwinStickProjectile_C_612.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.31:339][643]PIE: Warning: TwinStickProjectile_C_613.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.33:365][649]PIE: Warning: TwinStickProjectile_C_614.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.35:395][655]PIE: Warning: TwinStickProjectile_C_615.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.37:431][661]PIE: Warning: TwinStickProjectile_C_616.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.39:460][667]PIE: Warning: TwinStickProjectile_C_617.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.41:484][673]PIE: Warning: TwinStickProjectile_C_618.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.43:508][679]PIE: Warning: TwinStickProjectile_C_619.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.45:531][685]PIE: Warning: TwinStickProjectile_C_620.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.47:557][691]PIE: Warning: TwinStickProjectile_C_621.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.49:579][697]PIE: Warning: TwinStickProjectile_C_622.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.51:598][703]PIE: Warning: TwinStickProjectile_C_623.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.53:619][709]PIE: Warning: TwinStickProjectile_C_624.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.55:644][715]PIE: Warning: TwinStickProjectile_C_625.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.57:676][721]PIE: Warning: TwinStickProjectile_C_626.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.43.59:702][727]PIE: Warning: TwinStickProjectile_C_627.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.01:717][733]PIE: Warning: TwinStickProjectile_C_628.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.03:743][739]PIE: Warning: TwinStickProjectile_C_629.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.05:765][745]PIE: Warning: TwinStickProjectile_C_630.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.07:775][751]PIE: Warning: TwinStickProjectile_C_631.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.09:797][757]PIE: Warning: TwinStickProjectile_C_632.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.11:825][763]PIE: Warning: TwinStickProjectile_C_633.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.13:853][769]PIE: Warning: TwinStickProjectile_C_634.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.15:882][775]PIE: Warning: TwinStickProjectile_C_635.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.44.16:242][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-03.44.16:242][776]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-03.44.16:242][776]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-03.44.16:243][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-03.44.16:255][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.30-03.44.16:258][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-03.44.16:299][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-03.44.16:300][776]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A80332D800), frame # 234776
+[2020.08.30-03.44.16:300][776]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A82CFE4200), frame # 234776
+[2020.08.30-03.44.16:303][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.08.30-03.44.16:418][777]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.08.30-03.44.21:603][159]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-03.44.21:625][159]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-03.49.29:495][370]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.30-03.49.29:507][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.30-03.49.29:507][370]PIE: New page: PIE session: TwinStickExampleMap (Aug. 29, 2020, 7:49:29 p.m.)
+[2020.08.30-03.49.29:507][370]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-03.49.29:515][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007697s)
+[2020.08.30-03.49.29:516][370]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.08.30-03.49.29:516][370]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A806752200), frame # 237370
+[2020.08.30-03.49.29:516][370]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A80360A5C0), frame # 237370
+[2020.08.30-03.49.29:517][370]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2020.08.30-03.49.29:517][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.009704s)
+[2020.08.30-03.49.29:540][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.30-03.49.29:544][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.30-03.49.29:545][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.30-03.49.29:545][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.30-03.49.29:545][370]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.30-03.49.29:545][370]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.30-03.49.29:554][370]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.30-03.49.29:554][370]LogAudioMixer: Display: 1: FrontRight
+[2020.08.30-03.49.29:593][370]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.30-03.49.29:594][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.30-03.49.29:594][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.30-03.49.29:594][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.30-03.49.29:594][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.30-03.49.29:615][370]LogInit: FAudioDevice initialized.
+[2020.08.30-03.49.29:622][370]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.08.30-03.49.29:624][370]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.08.29-23.49.29
+[2020.08.30-03.49.29:624][370]LogWorld: Bringing up level for play took: 0.001887
+[2020.08.30-03.49.29:624][370]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.08.30-03.49.29:627][370]PIE: Server logged in
+[2020.08.30-03.49.29:627][370]PIE: Play in editor total start time 0.122 seconds.
+[2020.08.30-03.49.29:741][379]PIE: Warning: TwinStickProjectile_C_0.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.32:375][694]PIE: Warning: TwinStickProjectile_C_1.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.33:875][874]PIE: Warning: TwinStickProjectile_C_2.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.35:375][ 54]PIE: Warning: TwinStickProjectile_C_3.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.36:875][234]PIE: Warning: TwinStickProjectile_C_4.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.38:375][414]PIE: Warning: TwinStickProjectile_C_5.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.39:875][594]PIE: Warning: TwinStickProjectile_C_6.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.41:376][774]PIE: Warning: TwinStickProjectile_C_13.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.42:876][954]PIE: Warning: TwinStickProjectile_C_23.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.44:377][134]PIE: Warning: TwinStickProjectile_C_33.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.45:878][312]PIE: Warning: TwinStickProjectile_C_45.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.55:380][452]PIE: Warning: TwinStickProjectile_C_118.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.57:881][752]PIE: Warning: TwinStickProjectile_C_142.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.49.59:382][932]PIE: Warning: TwinStickProjectile_C_157.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.00:884][112]PIE: Warning: TwinStickProjectile_C_172.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.02:384][292]PIE: Warning: TwinStickProjectile_C_173.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.03:884][472]PIE: Warning: TwinStickProjectile_C_174.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.05:384][652]PIE: Warning: TwinStickProjectile_C_179.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.06:884][832]PIE: Warning: TwinStickProjectile_C_191.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.08:384][ 12]PIE: Warning: TwinStickProjectile_C_193.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.11:884][432]PIE: Warning: TwinStickProjectile_C_194.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.13:884][672]PIE: Warning: TwinStickProjectile_C_195.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.15:384][852]PIE: Warning: TwinStickProjectile_C_196.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-03.50.16:363][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-03.50.16:363][964]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-03.50.16:364][964]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-03.50.16:364][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-03.50.16:374][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.30-03.50.16:377][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-03.50.16:398][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-03.50.16:419][964]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A80360A5C0), frame # 242964
+[2020.08.30-03.50.16:419][964]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A806752200), frame # 242964
+[2020.08.30-03.50.16:422][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.08.30-03.50.16:514][965]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.08.30-03.50.20:443][412]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-03.50.20:456][412]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-04.42.28:582][ 40]LogTemp: Resetting audio stream to device id 
+[2020.08.30-04.42.28:753][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.30-04.42.28:753][ 40]LogAudioMixer: Display: 1: FrontRight
+[2020.08.30-04.46.23:765][818]LogSlate: Window 'BP_EnemyTurret' being destroyed
+[2020.08.30-04.46.23:782][818]LogSlate: Window 'BP_EnemyTurret' being destroyed
+[2020.08.30-04.46.23:826][818]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-04.46.23:826][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-04.46.42:815][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.08.30-04.46.45:560][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-04.47.54:853][ 78]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-04.47.54:904][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.08.30-04.47.55:539][114]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol936C7B234EDCC0C63452FE8D414CA157.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-04.47.55:560][114]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-04.47.55:560][114]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-04.55.41:965][365]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2020.08.30-04.55.41:972][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.045
+[2020.08.30-04.55.41:974][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-04.55.42:000][365]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-04.55.42:000][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-04.55.42:057][365]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto5C1F231C641847F7CF142E3AD4D51673C.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto5.uasset'
+[2020.08.30-04.55.42:059][365]LogFileHelpers: Auto-saving content packages took 0.086
+[2020.08.30-05.05.42:725][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.08.30-05.05.42:729][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.033
+[2020.08.30-05.05.42:730][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-05.05.42:769][500]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-05.05.42:769][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-05.05.42:827][500]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto6028E9DD74C0C2EF60772A099A52DD8F5.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto6.uasset'
+[2020.08.30-05.05.42:829][500]LogFileHelpers: Auto-saving content packages took 0.100
+[2020.08.30-05.25.12:525][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.08.30-05.25.12:528][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.029
+[2020.08.30-05.25.12:528][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-05.25.12:551][190]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-05.25.12:551][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-05.25.12:595][190]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto7F9CA1E7F4BC14D78C8845FB9F7FB3BBE.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto7.uasset'
+[2020.08.30-05.25.12:596][190]LogFileHelpers: Auto-saving content packages took 0.068
+[2020.08.30-05.28.12:975][811]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-05.28.13:031][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.08.30-05.28.13:719][856]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol0DC6D2BA40CD3F9DB779F9B2E0D7818B.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-05.28.13:742][856]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-05.28.13:742][856]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-06.03.03:304][327]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.08.30-06.03.03:309][327]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.051
+[2020.08.30-06.03.03:309][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-06.03.03:346][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-06.03.03:346][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-06.03.03:409][327]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto8834842234E20F6A1B2709AB724279ACC.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto8.uasset'
+[2020.08.30-06.03.03:411][327]LogFileHelpers: Auto-saving content packages took 0.102
+[2020.08.30-06.05.57:414][103]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-06.05.57:467][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.08.30-06.05.57:996][131]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolF4BBF23A4C7AA238C512D6A624C25646.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-06.05.58:012][131]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-06.05.58:012][131]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-06.13.03:860][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.08.30-06.13.03:866][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.042
+[2020.08.30-06.13.03:867][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-06.13.03:907][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-06.13.03:907][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-06.13.03:961][ 55]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto957E2C776429D9316387062A89409E1F0.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto9.uasset'
+[2020.08.30-06.13.03:963][ 55]LogFileHelpers: Auto-saving content packages took 0.096
+[2020.08.30-06.31.35:641][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.30-06.33.59:240][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.08.30-06.33.59:249][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.040
+[2020.08.30-06.33.59:250][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-06.33.59:284][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-06.33.59:285][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-06.33.59:348][270]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto05F28A2084AC7C48C4F34E7939AED9363.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto0.uasset'
+[2020.08.30-06.33.59:350][270]LogFileHelpers: Auto-saving content packages took 0.100
+[2020.08.30-06.50.58:293][366]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-06.50.58:365][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.08.30-06.50.58:979][399]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol098106604EA193984857748EFBDA43DB.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-06.50.59:002][399]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-06.50.59:003][399]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-06.52.18:078][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.08.30-06.52.18:083][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.034
+[2020.08.30-06.52.18:084][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol] ([1] browsable assets)...
+[2020.08.30-06.52.18:114][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol]
+[2020.08.30-06.52.18:114][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyPatrol]
+[2020.08.30-06.52.18:167][735]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol_Auto198A8680548C353C2064E8C9D91F8020B.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyPatrol_Auto1.uasset'
+[2020.08.30-06.52.18:169][735]LogFileHelpers: Auto-saving content packages took 0.085
+[2020.08.30-07.06.19:292][ 67]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-07.06.19:359][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.08.30-07.06.20:435][130]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolDF757EA74D4BE1BD077120A4AE87891D.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.06.20:449][130]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-07.06.20:449][130]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.06.46:875][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.08.30-07.07.08:996][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.30-07.07.23:301][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.30-07.07.51:331][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.30-07.07.54:219][950]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyPatrol_C (BP_EnemyPatrol)
+[2020.08.30-07.08.24:630][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.30-07.08.28:217][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.08.30-07.08.28:273][692]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/TwinStickExampleMap_Auto26E100ED24C782317F93AA7AF47CE4EF4.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto2.umap'
+[2020.08.30-07.08.28:275][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.083
+[2020.08.30-07.08.28:275][692]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.08.30-07.08.54:544][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.30-07.09.01:757][449]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyPatrol_C (BP_EnemyPatrol)
+[2020.08.30-07.10.52:598][656]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-07.10.52:713][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.08.30-07.10.53:320][687]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol6C9686EE40821A45F9F696BD49ECEE79.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.10.53:334][687]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-07.10.53:334][687]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.11.24:879][895]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-07.11.24:987][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.08.30-07.11.25:648][933]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolCBD3F2E541E708D9958946A33303B385.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.11.25:662][933]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-07.11.25:663][933]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.12.10:460][243]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-07.12.10:562][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.08.30-07.12.11:273][283]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrol3BDB662644EB0FA45DDB2B989997D9E8.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.12.11:287][283]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-07.12.11:287][283]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.12.14:499][574]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.30-07.12.14:527][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.30-07.12.14:527][574]PIE: New page: PIE session: TwinStickExampleMap (Aug. 29, 2020, 11:12:14 p.m.)
+[2020.08.30-07.12.14:552][574]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.12.14:567][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015301s)
+[2020.08.30-07.12.14:570][574]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.08.30-07.12.14:570][574]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A84F6D6C00), frame # 380574
+[2020.08.30-07.12.14:570][574]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A8562A4400), frame # 380574
+[2020.08.30-07.12.14:571][574]LogPlayLevel: PIE: World Init took: (0.003817s)
+[2020.08.30-07.12.14:572][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.019698s)
+[2020.08.30-07.12.14:596][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.30-07.12.14:599][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.30-07.12.14:599][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.30-07.12.14:600][574]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.30-07.12.14:600][574]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.30-07.12.14:610][574]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.30-07.12.14:610][574]LogAudioMixer: Display: 1: FrontRight
+[2020.08.30-07.12.14:656][574]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.30-07.12.14:656][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.30-07.12.14:656][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.30-07.12.14:656][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.30-07.12.14:657][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.30-07.12.14:686][574]LogInit: FAudioDevice initialized.
+[2020.08.30-07.12.14:705][574]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.08.30-07.12.14:709][574]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.08.30-03.12.14
+[2020.08.30-07.12.14:711][574]LogWorld: Bringing up level for play took: 0.005046
+[2020.08.30-07.12.14:712][574]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.08.30-07.12.14:716][574]PIE: Server logged in
+[2020.08.30-07.12.14:717][574]PIE: Play in editor total start time 0.204 seconds.
+[2020.08.30-07.12.14:792][575]PIE: Warning: TwinStickProjectile_C_0.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.14:793][575]PIE: Warning: TwinStickProjectile_C_1.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.16:306][742]PIE: Warning: TwinStickProjectile_C_2.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.16:307][742]PIE: Warning: TwinStickProjectile_C_3.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.17:813][918]PIE: Warning: TwinStickProjectile_C_4.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.18:317][977]PIE: Warning: TwinStickProjectile_C_5.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.19:325][ 95]PIE: Warning: TwinStickProjectile_C_6.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.20:330][213]PIE: Warning: TwinStickProjectile_C_7.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.20:830][271]PIE: Warning: TwinStickProjectile_C_8.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.21:841][389]PIE: Warning: TwinStickProjectile_C_9.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.22:346][448]PIE: Warning: TwinStickProjectile_C_10.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.23:353][566]PIE: Warning: TwinStickProjectile_C_11.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.23:857][625]PIE: Warning: TwinStickProjectile_C_12.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.24:865][743]PIE: Warning: TwinStickProjectile_C_13.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.25:365][801]PIE: Warning: TwinStickProjectile_C_14.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.26:373][919]PIE: Warning: TwinStickProjectile_C_15.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.26:879][978]PIE: Warning: TwinStickProjectile_C_16.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.27:888][ 95]PIE: Warning: TwinStickProjectile_C_17.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.28:392][153]PIE: Warning: TwinStickProjectile_C_18.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.29:404][272]PIE: Warning: TwinStickProjectile_C_19.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.29:908][330]PIE: Warning: TwinStickProjectile_C_20.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.30:913][438]PIE: Warning: TwinStickProjectile_C_21.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.31:416][496]PIE: Warning: TwinStickProjectile_C_22.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.31:774][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.12.31:775][534]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.12.31:775][534]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-07.12.31:776][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.12.31:794][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.30-07.12.31:797][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.12.31:847][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.12.31:850][534]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A8562A4400), frame # 382534
+[2020.08.30-07.12.31:850][534]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A84F6D6C00), frame # 382534
+[2020.08.30-07.12.31:852][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.08.30-07.12.31:950][535]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.08.30-07.12.33:062][621]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.12.33:077][621]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.12.55:705][ 21]BlueprintLog: New page: Compile BP_EnemyPatrol
+[2020.08.30-07.12.55:752][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.30-07.12.56:250][ 54]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolEF28408C467FB6D8BE925288AE34BBDE.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.12.56:265][ 54]AssetCheck: New page: Asset Save: BP_EnemyPatrol
+[2020.08.30-07.12.56:265][ 54]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.12.56:694][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2020.08.30-07.12.59:238][310]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.30-07.12.59:253][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.30-07.12.59:253][310]PIE: New page: PIE session: TwinStickExampleMap (Aug. 29, 2020, 11:12:59 p.m.)
+[2020.08.30-07.12.59:253][310]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.12.59:259][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006239s)
+[2020.08.30-07.12.59:260][310]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.08.30-07.12.59:261][310]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A841823E00), frame # 384310
+[2020.08.30-07.12.59:261][310]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A858CBE0C0), frame # 384310
+[2020.08.30-07.12.59:261][310]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2020.08.30-07.12.59:261][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.008167s)
+[2020.08.30-07.12.59:285][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.30-07.12.59:288][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.30-07.12.59:288][310]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.30-07.12.59:288][310]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.30-07.12.59:296][310]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.30-07.12.59:296][310]LogAudioMixer: Display: 1: FrontRight
+[2020.08.30-07.12.59:336][310]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.30-07.12.59:336][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.30-07.12.59:336][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.30-07.12.59:336][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.30-07.12.59:337][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.30-07.12.59:355][310]LogInit: FAudioDevice initialized.
+[2020.08.30-07.12.59:362][310]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.08.30-07.12.59:364][310]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.08.30-03.12.59
+[2020.08.30-07.12.59:365][310]LogWorld: Bringing up level for play took: 0.001766
+[2020.08.30-07.12.59:365][310]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.08.30-07.12.59:367][310]PIE: Server logged in
+[2020.08.30-07.12.59:368][310]PIE: Play in editor total start time 0.117 seconds.
+[2020.08.30-07.12.59:409][311]PIE: Warning: TwinStickProjectile_C_0.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.12.59:590][332]PIE: Warning: TwinStickProjectile_C_1.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.00:921][491]PIE: Warning: TwinStickProjectile_C_2.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.01:096][512]PIE: Warning: TwinStickProjectile_C_3.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.02:597][692]PIE: Warning: TwinStickProjectile_C_4.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.04:097][872]PIE: Warning: TwinStickProjectile_C_5.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.05:597][ 52]PIE: Warning: TwinStickProjectile_C_6.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.06:422][151]PIE: Warning: TwinStickProjectile_C_7.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.07:106][232]PIE: Warning: TwinStickProjectile_C_14.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.07:933][331]PIE: Warning: TwinStickProjectile_C_22.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.08:608][412]PIE: Warning: TwinStickProjectile_C_29.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.09:435][511]PIE: Warning: TwinStickProjectile_C_38.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.10:111][592]PIE: Warning: TwinStickProjectile_C_45.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.10:938][691]PIE: Warning: TwinStickProjectile_C_54.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.12:442][869]PIE: Warning: TwinStickProjectile_C_61.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.12:617][890]PIE: Warning: TwinStickProjectile_C_62.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.13:943][ 49]PIE: Warning: TwinStickProjectile_C_63.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.14:118][ 70]PIE: Warning: TwinStickProjectile_C_64.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.15:443][229]PIE: Warning: TwinStickProjectile_C_65.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.16:943][409]PIE: Warning: TwinStickProjectile_C_66.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.19:443][709]PIE: Warning: TwinStickProjectile_C_67.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.20:205][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.13.20:206][794]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.13.20:206][794]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-07.13.20:206][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.13.20:228][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.30-07.13.20:231][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.13.20:270][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.13.20:271][794]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A858CBE0C0), frame # 386794
+[2020.08.30-07.13.20:272][794]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A841823E00), frame # 386794
+[2020.08.30-07.13.20:274][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.30-07.13.20:360][795]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.08.30-07.13.21:598][920]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.13.21:605][920]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.13.23:516][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.08.30-07.13.23:555][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.30-07.13.23:588][126]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/TwinStickExampleMap0545D8D64CF15E8DBC985FAA7A5B763B.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2020.08.30-07.13.23:650][126]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.115
+[2020.08.30-07.13.23:779][126]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/TwinStickExampleMap_BuiltDataEB4B20F74E58BACF7B29ACA1B87FB70B.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2020.08.30-07.13.23:801][126]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.30-07.13.23:801][126]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2020.08.30-07.13.23:801][126]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2020.08.30-07.13.28:282][339]LogSlate: Window 'BP_EnemyPatrol' being destroyed
+[2020.08.30-07.13.28:290][339]LogSlate: Window 'BP_EnemyPatrol' being destroyed
+[2020.08.30-07.13.28:305][339]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-07.13.28:305][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.13.48:998][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.30-07.13.49:007][389]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_EnemyPatrolAndShoot.SKEL_BP_EnemyPatrolAndShoot_C' ref from Metadata '/Game/TwinStickBP/Blueprints/BP_EnemyPatrol.PackageMetaData'
+[2020.08.30-07.13.49:007][389]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot_C' ref from Metadata '/Game/TwinStickBP/Blueprints/BP_EnemyPatrol.PackageMetaData'
+[2020.08.30-07.13.49:008][389]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot:GetRandomLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/TwinStickBP/Blueprints/BP_EnemyPatrol.PackageMetaData'
+[2020.08.30-07.13.49:096][389]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolAndShoot499F32EA43732F3FE98AD794F96BC40C.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrolAndShoot.uasset'
+[2020.08.30-07.13.49:102][389]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/BP_EnemyPatrolCD7E0C7044928BF0AA7CB69841874B1A.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Blueprints/BP_EnemyPatrol.uasset'
+[2020.08.30-07.13.49:205][389]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.30-07.13.49:205][389]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2020.08.30-07.13.49:205][389]LogContentValidation: Display: Validating ObjectRedirector /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol
+[2020.08.30-07.13.49:205][389]LogContentValidation: Display: Validating ObjectRedirector /Game/TwinStickBP/Blueprints/BP_EnemyPatrol.BP_EnemyPatrol_C
+[2020.08.30-07.13.50:313][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.30-07.13.50:965][587]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.30-07.13.50:980][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.30-07.13.50:980][587]PIE: New page: PIE session: TwinStickExampleMap (Aug. 29, 2020, 11:13:50 p.m.)
+[2020.08.30-07.13.51:003][587]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.13.51:011][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007951s)
+[2020.08.30-07.13.51:012][587]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.08.30-07.13.51:013][587]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A7BF564600), frame # 388587
+[2020.08.30-07.13.51:013][587]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A804A53EC0), frame # 388587
+[2020.08.30-07.13.51:013][587]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.08.30-07.13.51:013][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.009607s)
+[2020.08.30-07.13.51:034][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.30-07.13.51:037][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.30-07.13.51:037][587]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.30-07.13.51:037][587]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.30-07.13.51:046][587]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.30-07.13.51:046][587]LogAudioMixer: Display: 1: FrontRight
+[2020.08.30-07.13.51:086][587]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.30-07.13.51:086][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.30-07.13.51:086][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.30-07.13.51:086][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.30-07.13.51:087][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.30-07.13.51:104][587]LogInit: FAudioDevice initialized.
+[2020.08.30-07.13.51:114][587]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.08.30-07.13.51:116][587]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.08.30-03.13.51
+[2020.08.30-07.13.51:117][587]LogWorld: Bringing up level for play took: 0.002089
+[2020.08.30-07.13.51:118][587]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.08.30-07.13.51:120][587]PIE: Server logged in
+[2020.08.30-07.13.51:121][587]PIE: Play in editor total start time 0.143 seconds.
+[2020.08.30-07.13.51:306][605]PIE: Warning: TwinStickProjectile_C_0.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.51:448][622]PIE: Warning: TwinStickProjectile_C_1.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.52:810][785]PIE: Warning: TwinStickProjectile_C_2.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.52:951][802]PIE: Warning: TwinStickProjectile_C_3.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.54:310][965]PIE: Warning: TwinStickProjectile_C_4.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.54:453][982]PIE: Warning: TwinStickProjectile_C_5.ProjectileMesh TwinStickProjectile has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.08.30-07.13.55:786][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.13.55:786][138]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.08.30-07.13.55:787][138]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.30-07.13.55:787][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.13.55:796][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.30-07.13.55:800][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.30-07.13.55:842][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.30-07.13.55:843][138]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A804A53EC0), frame # 389138
+[2020.08.30-07.13.55:843][138]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7BF564600), frame # 389138
+[2020.08.30-07.13.55:846][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.08.30-07.13.55:929][139]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.08.30-07.13.57:857][334]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.13.57:872][334]LogSlate: Window 'Message Log' being destroyed
+[2020.08.30-07.14.01:696][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.08.30-07.14.01:735][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.30-07.14.01:769][747]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/TwinStickExampleMap2088DBCF4822407ECD850A8DEA7E6125.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2020.08.30-07.14.01:793][747]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.076
+[2020.08.30-07.14.01:884][747]LogSavePackage: Moving '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Saved/TwinStickExampleMap_BuiltData2657D2AF46F5822BEB7C5EBD1AFF7BD7.tmp' to '../../../../../../Users/Taqi Haque/source/repos/Plaza-Showdown/Plaza_Showdown/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2020.08.30-07.14.01:906][747]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.30-07.14.01:906][747]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2020.08.30-07.14.01:906][747]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
